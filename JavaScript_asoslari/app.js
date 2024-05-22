@@ -24,12 +24,24 @@
 
 // I saw a class of operators. Js operators are similar to python operators. Therefore did not write this code
 
-let a = true;
-let b = true;
+// let a = true;
+// let b = true;
 // let c;
 // c = a===b;
 // console.log(c) // this code return false. because ("===") this code check values and data types
 
-console.log(a && b);   // this code equal to and
-console.log(a || b);  // this code equal to or
-console.log(!a);  // this code equal to not
+// console.log(a && b);   // this code equal to and
+// console.log(a || b);  // this code equal to or
+// console.log(!a);  // this code equal to not
+
+
+// there is type coersion in javascript programming language.
+
+const age = '23';
+console.log(age);
+console.log(Number(age));
+console.log(age + 1);
+console.log(Number(age) + 1); 
+const Name = 'Ulugbek';
+console.log(Number(Name));
+
