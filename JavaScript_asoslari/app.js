@@ -37,11 +37,26 @@
 
 // there is type coersion in javascript programming language.
 
-const age = '23';
-console.log(age);
-console.log(Number(age));
-console.log(age + 1);
-console.log(Number(age) + 1); 
-const Name = 'Ulugbek';
-console.log(Number(Name));
+// const age = '20';
+// console.log(age);
+// console.log(Number(age));
+// console.log(age + 1);
+// console.log(Number(age) + 1); 
+// const Name = 'Shavkatjon';
+// console.log(Number(Name));
+
+
+// function evenOrOdd(number) {
+//     if (number%2 === 0){
+//         console.log(`${number} is even`);
+//     } else{
+//         console.log(`${number} is odd`);
+//     }
+// }
+
+// evenOrOdd(6)
+
+// let a = 5;
+// let b = '10';
+// console.log(a - b)
 
