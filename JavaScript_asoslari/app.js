@@ -1,10 +1,35 @@
-alert('Assalomu alaykum')
+'use strict';   // for fix bugs
 
 
-let name = 'Shavkatjon';
-console.log(name)
-
-let age = 20;
-console.log(age);
+// alert('Assalomu alaykum')
 
 
+// let Name = 'Shavkatjon';  // this code is announce variables
+// console.log(Name)
+
+// let age = 20;
+// console.log(age);
+
+
+// console.log(typeof age)
+// console.log(typeof Name)
+
+// const surname = 'Vahobov' // this code is announce constant variables
+// console.log(typeof surname)
+
+
+// var Name = 'Shavkatjon' // this code equal to let. But we must not use var
+
+
+
+// I saw a class of operators. Js operators are similar to python operators. Therefore did not write this code
+
+let a = true;
+let b = true;
+// let c;
+// c = a===b;
+// console.log(c) // this code return false. because ("===") this code check values and data types
+
+console.log(a && b);   // this code equal to and
+console.log(a || b);  // this code equal to or
+console.log(!a);  // this code equal to not
