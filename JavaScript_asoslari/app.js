@@ -60,3 +60,15 @@
 // let b = '10';
 // console.log(a - b)
 
+// const list = [5,6,12,3,7,9,2]
+// console.log(list.sort())
+
+
+// let fac = 1
+
+// for (let i = 1; i <= 5; i++ ) {
+//     fac = fac * i
+// }
+// console.log(`Faktorial javobi ${fac} ga teng`)
+
+// let num  = ['apple', 'banana', 'orange']
